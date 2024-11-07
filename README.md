@@ -13,7 +13,7 @@
 * [Metadata](#metadata)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+
 <!-- * [License](#license) -->
 
 
@@ -34,8 +34,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-[image](https://github.com/user-attachments/assets/8a5fdebc-f61a-4fc6-9215-060a893486fc)
+(https://github.com/user-attachments/assets/8a5fdebc-f61a-4fc6-9215-060a893486fc)
 
 
 ## Project Status
@@ -53,7 +52,8 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/elysslai/ghostchase** and import
 
-## Edit this project ![Build status badge](https://github.com/elysslai/ghostchase/workflows/MakeCode/badge.svg)
+## Edit this project 
+![Build status badge](https://github.com/elysslai/ghostchase/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -68,7 +68,8 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/elysslai/ghostchase/raw/master/.github/makecode/blocks.png)
 
-#### Metadata (used for search, rendering)
+#### Metadata 
+(used for search, rendering)
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
